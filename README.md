@@ -15,7 +15,6 @@ Hello! I'm Aryan Patel, a recent Computer Science graduate with a passion for da
   - [Power BI](#power-bi)
     - [HR Analytics Dashboard](#hr-analytics-dashboard)
 - [Education](#education)
-- [Certificates](#certificates)
 - [Contact](#contact)
 
 ## Portfolio Projects
